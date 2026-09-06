@@ -1,0 +1,8917 @@
+{
+  "_meta": {
+    "source": "synth_hot_keywords",
+    "fetched_at": "2026-07-20T03:51:45+00:00"
+  },
+  "sources_used": [
+    "youtube_trending",
+    "pytrends_sector",
+    "naver_datalab"
+  ],
+  "weights": {
+    "naver_search_ad": 1.0,
+    "youtube_trending": 0.8,
+    "tiktok_creative": 0.7,
+    "pytrends_sector": 0.5,
+    "naver_datalab": 0.5
+  },
+  "total_keywords": 888,
+  "keywords": [
+    {
+      "keyword": "Official",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4958865.0
+      },
+      "trend_score": 100.0
+    },
+    {
+      "keyword": "BTS",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "NORMAL",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "방탄소년단",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "HYBE",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "HYBE LABELS",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "하이브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "하이브레이블즈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 4452251.0
+      },
+      "trend_score": 89.77
+    },
+    {
+      "keyword": "2026",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 3675157.0
+      },
+      "trend_score": 74.08
+    },
+    {
+      "keyword": "ChatGPT",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 0.5562130177514792,
+        "naver_datalab": 91.901018
+      },
+      "trend_score": 71.88
+    },
+    {
+      "keyword": "SUMMERSWAG",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 3112092.0
+      },
+      "trend_score": 62.71
+    },
+    {
+      "keyword": "HWASA",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 3112092.0
+      },
+      "trend_score": 62.71
+    },
+    {
+      "keyword": "싸이흠뻑쇼",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 3112092.0
+      },
+      "trend_score": 62.71
+    },
+    {
+      "keyword": "Good",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 3112092.0
+      },
+      "trend_score": 62.71
+    },
+    {
+      "keyword": "Goodbye",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 3112092.0
+      },
+      "trend_score": 62.71
+    },
+    {
+      "keyword": "chatgpt sites",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 36450.0
+      },
+      "trend_score": 62.5
+    },
+    {
+      "keyword": "ewc 롤 중계",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 35350.0
+      },
+      "trend_score": 60.61
+    },
+    {
+      "keyword": "코딩 용 노트북",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 19250.0
+      },
+      "trend_score": 33.01
+    },
+    {
+      "keyword": "마인크래프트",
+      "sources": [
+        "youtube_trending",
+        "pytrends_sector"
+      ],
+      "raw": {
+        "youtube_trending": 795569.0,
+        "pytrends_sector": 18.562130177514792
+      },
+      "trend_score": 18.36
+    },
+    {
+      "keyword": "생존기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 795569.0
+      },
+      "trend_score": 15.94
+    },
+    {
+      "keyword": "지하철이",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 795569.0
+      },
+      "trend_score": 15.94
+    },
+    {
+      "keyword": "송하예",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 748524.0
+      },
+      "trend_score": 14.99
+    },
+    {
+      "keyword": "케이팝",
+      "sources": [
+        "youtube_trending",
+        "pytrends_sector"
+      ],
+      "raw": {
+        "youtube_trending": 523319.0,
+        "pytrends_sector": 34.0887573964497
+      },
+      "trend_score": 12.07
+    },
+    {
+      "keyword": "리그오브레전드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 597584.0
+      },
+      "trend_score": 11.94
+    },
+    {
+      "keyword": "불도그",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 567239.0
+      },
+      "trend_score": 11.33
+    },
+    {
+      "keyword": "리니지",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 567239.0
+      },
+      "trend_score": 11.33
+    },
+    {
+      "keyword": "유골함",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 566156.0
+      },
+      "trend_score": 11.3
+    },
+    {
+      "keyword": "랄로",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 566156.0
+      },
+      "trend_score": 11.3
+    },
+    {
+      "keyword": "랄튜브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 566156.0
+      },
+      "trend_score": 11.3
+    },
+    {
+      "keyword": "김찬호",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 566156.0
+      },
+      "trend_score": 11.3
+    },
+    {
+      "keyword": "게임",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 536859.0
+      },
+      "trend_score": 10.71
+    },
+    {
+      "keyword": "KPOP",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 523319.0
+      },
+      "trend_score": 10.44
+    },
+    {
+      "keyword": "VCT",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 505486.0
+      },
+      "trend_score": 10.08
+    },
+    {
+      "keyword": "Love",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 499318.0
+      },
+      "trend_score": 9.95
+    },
+    {
+      "keyword": "Brings",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Video",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "The",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Profumo",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "That",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Amore",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "First",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Roma",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Music",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Song",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "1960s",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Back",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "Italian",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "profumo d'amore a roma",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "rome love song",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "1960s italian love song",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "vintage italian music",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "riviera vintage music",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "italian oldies",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "nostalgic italian ballad",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "romantic rome music",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "classic italian romance",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "first love song",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 461020.0
+      },
+      "trend_score": 9.18
+    },
+    {
+      "keyword": "찾겠습니다",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 428441.0
+      },
+      "trend_score": 8.52
+    },
+    {
+      "keyword": "감스트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 428441.0
+      },
+      "trend_score": 8.52
+    },
+    {
+      "keyword": "침착맨",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 428441.0
+      },
+      "trend_score": 8.52
+    },
+    {
+      "keyword": "이말년",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 428441.0
+      },
+      "trend_score": 8.52
+    },
+    {
+      "keyword": "침투부",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 428441.0
+      },
+      "trend_score": 8.52
+    },
+    {
+      "keyword": "한국",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 395555.0
+      },
+      "trend_score": 7.86
+    },
+    {
+      "keyword": "발로란트",
+      "sources": [
+        "youtube_trending",
+        "pytrends_sector"
+      ],
+      "raw": {
+        "youtube_trending": 339738.0,
+        "pytrends_sector": 27.331360946745562
+      },
+      "trend_score": 7.8
+    },
+    {
+      "keyword": "신곡",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 384488.0
+      },
+      "trend_score": 7.64
+    },
+    {
+      "keyword": "Brainwash",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 383100.0
+      },
+      "trend_score": 7.61
+    },
+    {
+      "keyword": "멸망전",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 378115.0
+      },
+      "trend_score": 7.51
+    },
+    {
+      "keyword": "발라드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "발라더",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "보컬리스트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "보컬커버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "여자가수",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "가수",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "발라드가수",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "이노래를",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "송하예신곡",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "송하예이노래를",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "이노래를들어줘",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "이 노래를 들어줘 송하예",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 374262.0
+      },
+      "trend_score": 7.43
+    },
+    {
+      "keyword": "제우스웨인",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 354305.0
+      },
+      "trend_score": 7.03
+    },
+    {
+      "keyword": "파카",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 354305.0
+      },
+      "trend_score": 7.03
+    },
+    {
+      "keyword": "paka",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 354305.0
+      },
+      "trend_score": 7.03
+    },
+    {
+      "keyword": "손인욱",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 354305.0
+      },
+      "trend_score": 7.03
+    },
+    {
+      "keyword": "yay",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 339738.0
+      },
+      "trend_score": 6.73
+    },
+    {
+      "keyword": "치지직",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 333547.0
+      },
+      "trend_score": 6.61
+    },
+    {
+      "keyword": "스트리머",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 333547.0
+      },
+      "trend_score": 6.61
+    },
+    {
+      "keyword": "클래식",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 321831.0
+      },
+      "trend_score": 6.37
+    },
+    {
+      "keyword": "리니지m",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 321831.0
+      },
+      "trend_score": 6.37
+    },
+    {
+      "keyword": "ewc 롤",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 3600.0
+      },
+      "trend_score": 6.17
+    },
+    {
+      "keyword": "노움강도단",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 301977.0
+      },
+      "trend_score": 5.97
+    },
+    {
+      "keyword": "혜안져스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 301977.0
+      },
+      "trend_score": 5.97
+    },
+    {
+      "keyword": "대환장",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 301977.0
+      },
+      "trend_score": 5.97
+    },
+    {
+      "keyword": "혜안",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 301977.0
+      },
+      "trend_score": 5.97
+    },
+    {
+      "keyword": "롤",
+      "sources": [
+        "youtube_trending",
+        "pytrends_sector"
+      ],
+      "raw": {
+        "youtube_trending": 256989.0,
+        "pytrends_sector": 55.94082840236686
+      },
+      "trend_score": 5.93
+    },
+    {
+      "keyword": "김부장",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 298374.0
+      },
+      "trend_score": 5.9
+    },
+    {
+      "keyword": "최대훈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 298374.0
+      },
+      "trend_score": 5.9
+    },
+    {
+      "keyword": "SBS금토드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 298374.0
+      },
+      "trend_score": 5.9
+    },
+    {
+      "keyword": "윤경호",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 298374.0
+      },
+      "trend_score": 5.9
+    },
+    {
+      "keyword": "LIVE",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 291399.0
+      },
+      "trend_score": 5.76
+    },
+    {
+      "keyword": "김민교",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 284178.0
+      },
+      "trend_score": 5.61
+    },
+    {
+      "keyword": "치킨과",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 277258.0
+      },
+      "trend_score": 5.47
+    },
+    {
+      "keyword": "기안84",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 277258.0
+      },
+      "trend_score": 5.47
+    },
+    {
+      "keyword": "강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 263938.0
+      },
+      "trend_score": 5.2
+    },
+    {
+      "keyword": "롤 클래식 하는 법",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 3000.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "하이퍼캐리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "돌아온",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "#리그오브레전드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "#롤",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "#괴물쥐",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "#원딜",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "#장지환",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "전략적팀전투",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "tft",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 260979.0
+      },
+      "trend_score": 5.14
+    },
+    {
+      "keyword": "Day",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "KRX",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "GEN",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "스테이지",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "퍼시픽",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "발로란트리그",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "발로란트이스포츠",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "발로란트챔피언스투어",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "발로란트경기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "발로란트대회",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "매드무비",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "TOP5",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "korea",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "main",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "event",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "DRX",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Valorant",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "valorant esports",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "valorant champions tour",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "EDG",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Abo",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "CHICHOO",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Haodong",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "BuZz",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "MaKo",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Rb",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "stax",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Zest",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "KRÜ Esports",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "delz1k",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "NagZet",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Mazino",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Leviatán",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Tacolilla",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Adverso",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "100 Thieves",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "ASUNA",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "OpTiC Gaming",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "crashies",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Marved",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "ZETA DIVISION",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "LAZ",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "SugarZ3ro",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Team Liquid",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "NIVERA",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "SCREAM",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "SOULCAS",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "FunPlus Phoenix",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "ANGE1",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "SUYGETSU",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Fnatic",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "BOASTER",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "DERKE",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "LOUD",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Saadhak",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Sacy",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Paper Rex",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Benkai",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "f0rsakeN",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "Jinggg",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "XERXIA",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "SSCARY",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 252743.0
+      },
+      "trend_score": 4.98
+    },
+    {
+      "keyword": "오세훈 부동산",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 2900.0
+      },
+      "trend_score": 4.97
+    },
+    {
+      "keyword": "중대발표",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "하겠습니다",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "오랜만이에요",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "생방송",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "holdem",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "홀덤",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "모바일게임",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 245408.0
+      },
+      "trend_score": 4.83
+    },
+    {
+      "keyword": "AI",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 72.03550295857988,
+        "naver_datalab": 6.085554
+      },
+      "trend_score": 4.82
+    },
+    {
+      "keyword": "저라뎃",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 242062.0
+      },
+      "trend_score": 4.76
+    },
+    {
+      "keyword": "롤 pbe 서버 하는 법",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 2600.0
+      },
+      "trend_score": 4.46
+    },
+    {
+      "keyword": "고르기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "모에몬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "윤가놈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "윤진석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "근가놈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "포켓로그",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "포켓몬스터",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "귀뚤톡크",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "200층",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "무한다이노",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "포켓로그공략",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 226155.0
+      },
+      "trend_score": 4.44
+    },
+    {
+      "keyword": "부동산 토론회",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 2550.0
+      },
+      "trend_score": 4.37
+    },
+    {
+      "keyword": "포켓몬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 214784.0
+      },
+      "trend_score": 4.21
+    },
+    {
+      "keyword": "숨바꼭질",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "이렇게",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "카멜레온",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "고수들끼리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "맞나요",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "웃소",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "wootso",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "유형",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "웃소 숨바꼭질",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "웃소 메챠",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "웃소 카멜레온",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "웃소 메챠 카멜레온",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "메챠카멜레온",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "MECCHA CHAMELEON",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 206303.0
+      },
+      "trend_score": 4.04
+    },
+    {
+      "keyword": "아이돌",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 195048.0
+      },
+      "trend_score": 3.81
+    },
+    {
+      "keyword": "HEEDAE",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 191550.0
+      },
+      "trend_score": 3.74
+    },
+    {
+      "keyword": "희대의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 191550.0
+      },
+      "trend_score": 3.74
+    },
+    {
+      "keyword": "C JAMM",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 191550.0
+      },
+      "trend_score": 3.74
+    },
+    {
+      "keyword": "BlackNut",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 191550.0
+      },
+      "trend_score": 3.74
+    },
+    {
+      "keyword": "블랙넛",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 191550.0
+      },
+      "trend_score": 3.74
+    },
+    {
+      "keyword": "DOMO",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 191550.0
+      },
+      "trend_score": 3.74
+    },
+    {
+      "keyword": "드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 169567.0
+      },
+      "trend_score": 3.3
+    },
+    {
+      "keyword": "드라마미리보기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 169567.0
+      },
+      "trend_score": 3.3
+    },
+    {
+      "keyword": "싸려는",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "내리고",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "막으려는",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "미드와",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "민교",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "교튜브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "튜브 김민교",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 163242.0
+      },
+      "trend_score": 3.17
+    },
+    {
+      "keyword": "You",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 160994.0
+      },
+      "trend_score": 3.12
+    },
+    {
+      "keyword": "고쳤습니다",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "만들어서",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "맘대로",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "키캡타워",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "배만들기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블록스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "roblox",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블정보",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블록스정보",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로벅스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블록스도어즈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "도어즈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블도어즈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "doors",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "스키비디",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "스키비디토일렛",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "병맛더빙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "스키비디병맛더빙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "스키비디토일렛병맛더빙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "상황극",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블상황극",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "점프맵",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "로블계",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 155286.0
+      },
+      "trend_score": 3.01
+    },
+    {
+      "keyword": "Strange",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "With",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "Lee Byeong Chan",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "이병찬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "LEE JI MIN",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "이지민",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "Shin Sung Jin",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "Shim Hyun Bo",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "It's Strange, With You",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "묘해, 너와",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 154392.0
+      },
+      "trend_score": 2.99
+    },
+    {
+      "keyword": "리니지클래식",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 152846.0
+      },
+      "trend_score": 2.96
+    },
+    {
+      "keyword": "김부장과",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "조력자의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "들이받을",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "김부장에게",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "토사구팽당한",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "총구겨눈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "리응령의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "주강찬을",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마리뷰",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "k드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "영화",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "개봉작",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "OTT",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "2026년드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "리뷰",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "감상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "줄거리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "해설",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "분석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "명장면",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "몰입",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "긴장감",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "반전",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "캐릭터",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "연기력",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "배우",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "스토리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "인물관계",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마소개",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마추천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마해석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마분석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "인기드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "최신드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마명작",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마소식",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마후기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마시청",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마클립",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마하이라이트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마요약",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마정리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마정보",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마사이다",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마이슈",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마트렌드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마엔딩",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마예고",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마예측",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마인기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마감동",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마소감",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마이야기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "성장드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마속대사",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마포인트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마캐릭터분석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마심층분석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마관전포인트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마서사",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마속사람들",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마속관계",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마리뷰영상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마분석영상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마유튜브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마예고분석",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마추천영상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마속반전",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마감동장면",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "사이다",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마결말",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마시청후기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마떡밥",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마예상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "드라마결말예측",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "볼만한드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "소지섭",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "AgentKimReactivated",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "아빠유니버스복수액션드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "복수",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "액션",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149187.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "Oku",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "GIFT",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "PLAVE",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "Kawaranai",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "BIRTHDAY",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "Mono",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "Hanako",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "플레이브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "Plave",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "예준",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "노아",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "밤비",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "은호",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "하민",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "버추얼",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "IDOL",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "VIRTUAL",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "プレイブ",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "イェジュン",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "ノア",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "バンビ",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "ウノ",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "ハミン",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "バーチャル",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "アイドル",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 149057.0
+      },
+      "trend_score": 2.88
+    },
+    {
+      "keyword": "롤 오류 코드 004",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1650.0
+      },
+      "trend_score": 2.83
+    },
+    {
+      "keyword": "500만빵",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "카오스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "레고77",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "신지드 장인",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "리그 오브 레전드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "LOL",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "메랜",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "메이플",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "메이플랜드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "옛메",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "옛날메이플",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "대머리도적",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "대머리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "옛날바람",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "클래식바람",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 143916.0
+      },
+      "trend_score": 2.78
+    },
+    {
+      "keyword": "League",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "GRANDFINALS",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "EWC",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "COSTREAM",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Legends",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Bard",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "바드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "League of Legends",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Support",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "서폿",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "빌드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Runes",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Build",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Coaching",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Faker",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Vtuber",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "브이튜버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "버츄얼유튜버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "ENVtuber",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Korean",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "Korea",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "KR server",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "한국어",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "fevi",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "feviknight",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "페비나이트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 142812.0
+      },
+      "trend_score": 2.76
+    },
+    {
+      "keyword": "YOUNGEST",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 137600.0
+      },
+      "trend_score": 2.65
+    },
+    {
+      "keyword": "satellite",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 136330.0
+      },
+      "trend_score": 2.62
+    },
+    {
+      "keyword": "밤바야",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 136053.0
+      },
+      "trend_score": 2.62
+    },
+    {
+      "keyword": "못구했어",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 136053.0
+      },
+      "trend_score": 2.62
+    },
+    {
+      "keyword": "클리드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 136053.0
+      },
+      "trend_score": 2.62
+    },
+    {
+      "keyword": "What",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "Sandeul",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "say",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "뭐라할까",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "지니뮤직",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "Genie Music",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "뮤직비디오",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "Music Video",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "kpop",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "Korean Music",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 132352.0
+      },
+      "trend_score": 2.54
+    },
+    {
+      "keyword": "예고편",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122808.0
+      },
+      "trend_score": 2.35
+    },
+    {
+      "keyword": "공격증가",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "돈복사",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "냥코대전쟁",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "흑루노",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "SSS급",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "텔론",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "뉴메타",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "스낵무비",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 122343.0
+      },
+      "trend_score": 2.34
+    },
+    {
+      "keyword": "가졌잖아",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "우리가",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "헤어져야",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "천상계",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "챌린저",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "정글러",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "Justlikethat",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "정글",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "동선",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "교육방송",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "롤토체스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 121126.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "스트리머의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "생계형",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "피드백중이야",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "스맵",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "Smeb",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "춘봉박",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "아프리카",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "ALL",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "이상호",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "msi",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "lck",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "한화생명",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "한화생명E스포츠",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "HLE",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "한화",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 120936.0
+      },
+      "trend_score": 2.31
+    },
+    {
+      "keyword": "Live",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 114791.0
+      },
+      "trend_score": 2.19
+    },
+    {
+      "keyword": "동생임",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "음바페",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "벨링엄",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "뉴캐슬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "프로젝트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "펨플릭스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "함께하는",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "한동숙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "칸튜브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "동수칸",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "ㄷㅅㅋ",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "동숙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107636.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "멸망전4편",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "다누리한테",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "실수로",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "같습니다",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "고백해버린",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "샤코",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "shaco",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "노영진",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "샤코1위",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "샤코장인",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "노령진",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "클레이",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "clay",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "topshaco",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "korshaco",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107631.0
+      },
+      "trend_score": 2.05
+    },
+    {
+      "keyword": "기합챔스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "왈도쿤",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "포켓몬 실전",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "포켓몬 챔피언스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "포챔스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "pokemon",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "왈도쿤 포켓몬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "왈도쿤 포챔스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 107392.0
+      },
+      "trend_score": 2.04
+    },
+    {
+      "keyword": "암살자",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 102428.0
+      },
+      "trend_score": 1.94
+    },
+    {
+      "keyword": "다이어트",
+      "sources": [
+        "youtube_trending",
+        "pytrends_sector"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0,
+        "pytrends_sector": 44.50295857988166
+      },
+      "trend_score": 1.71
+    },
+    {
+      "keyword": "팀에게",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "점수를",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "1000만원",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "5시간동안",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 조준선",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "아이온 2.0",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 신스킨",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 조준점",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "하버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 하버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 감도",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 신캐",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로 조준선",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "바이올린 챌린지",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "바이퍼 각독",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "체임버 강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 제트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 아시아서버 계정 만들기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 잘하는법",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 브레이킹",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 에임",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "제트 강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 페이드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 캐릭터 추천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "페이드 강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "rgx 11z pro 칼",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 요원 추천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "크림슨비스트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "케이오 강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "발로란트 에임연습",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "피닉스 강의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 86995.0
+      },
+      "trend_score": 1.63
+    },
+    {
+      "keyword": "ewc 롤 일정",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 900.0
+      },
+      "trend_score": 1.54
+    },
+    {
+      "keyword": "원재",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "리니지M",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "만만",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "똘끼",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "lineage",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "#LineageM",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "LineageM",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "아프리카tv",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "랑쯔",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "난닝구",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "꽃태자",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "용느",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "킹아더",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "엔씨소프트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "집행검",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "가이아의격노",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "다크엘프",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "박다솜",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "원큐",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "태산군주",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "신화변신",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "컬렉션",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "치우천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "러쉬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "러시",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "BJ",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "리니지2m",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "天堂M",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "天堂",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "MMORPG",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "tiantangM",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "여포왕",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "데페",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "전사",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "광전사",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "김택진",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "기르타스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "리니지신서버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "당진",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "격노",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "먹방",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "요리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "대리러쉬",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "대리러시",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "미르4",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "미르의전설",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "지호",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "지호아재",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "무협게임",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "MIR4",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "국산무협게임",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "위메이드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "인범",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "조인범",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "小許",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "唐明翎Elvira Tang",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "文老爹",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "天堂w",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "이문주",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "사또",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "수삼",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "도그",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "알트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "세야",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "黑綸",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "令狐沖爺爺",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "로드나인",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "글루디오",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "그레시아",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "리니지m신서버",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "빅보스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "보스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "서산",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "케이",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "겜케이",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "天堂經典版",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "김팥순",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "팥순",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "도칠",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "덕구",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "공성전",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "공성",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "데스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "안타",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "화둥",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "솔인챈트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "쏠",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "쏠인챈트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "#天堂經典版",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "#리니지m",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "#리니지클래식",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "#리니지",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "#솔인챈트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 76423.0
+      },
+      "trend_score": 1.41
+    },
+    {
+      "keyword": "made",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 73072.0
+      },
+      "trend_score": 1.35
+    },
+    {
+      "keyword": "사고쳤어요",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 73072.0
+      },
+      "trend_score": 1.35
+    },
+    {
+      "keyword": "mistake",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 73072.0
+      },
+      "trend_score": 1.35
+    },
+    {
+      "keyword": "Young",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "Sampler",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "2nd",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "UNDER",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "Album",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "Full",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "JYP Entertainment",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "JYP",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "DAY6",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "YoungK",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68800.0
+      },
+      "trend_score": 1.26
+    },
+    {
+      "keyword": "grentperez",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68165.0
+      },
+      "trend_score": 1.25
+    },
+    {
+      "keyword": "Grant Perez",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68165.0
+      },
+      "trend_score": 1.25
+    },
+    {
+      "keyword": "Julia Church",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68165.0
+      },
+      "trend_score": 1.25
+    },
+    {
+      "keyword": "James Wong",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 68165.0
+      },
+      "trend_score": 1.25
+    },
+    {
+      "keyword": "여름방학",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 60856.0
+      },
+      "trend_score": 1.1
+    },
+    {
+      "keyword": "아이유 에필로그",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 550.0
+      },
+      "trend_score": 0.94
+    },
+    {
+      "keyword": "Clip",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "K-POP",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "Kpop",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "1theK",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "원더케이",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "Original",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "1theK Original",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "TOP100",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "idol",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "라이브",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "멜론",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "원더케이 오리지널",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "음악",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 45991.0
+      },
+      "trend_score": 0.8
+    },
+    {
+      "keyword": "롤 t1 스킨",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 400.0
+      },
+      "trend_score": 0.69
+    },
+    {
+      "keyword": "디스코",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "계은숙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "구독자",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "신청곡",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "나에겐",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "태어난",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "스타일로",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "Cover",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "당신밖에",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "HWARAN",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38896.0
+      },
+      "trend_score": 0.66
+    },
+    {
+      "keyword": "Ooh",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "Got",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "A2O MAY",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "Greg Bonnick",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "Hayden Chapman",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "Moa “Cazzi Opeia” Carlebecker",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "Emily Yeonseo Kim",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "YOO YOUNG JIN",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "Love Got Me Ooh",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 38298.0
+      },
+      "trend_score": 0.65
+    },
+    {
+      "keyword": "롤 클래식 출시일",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 350.0
+      },
+      "trend_score": 0.6
+    },
+    {
+      "keyword": "롤 멸망 전",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 300.0
+      },
+      "trend_score": 0.51
+    },
+    {
+      "keyword": "롤 티원 스킨",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 300.0
+      },
+      "trend_score": 0.51
+    },
+    {
+      "keyword": "발 로란트 챔피언스 투어",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 300.0
+      },
+      "trend_score": 0.51
+    },
+    {
+      "keyword": "CHAD BURGER",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 30428.0
+      },
+      "trend_score": 0.49
+    },
+    {
+      "keyword": "sihov",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 30428.0
+      },
+      "trend_score": 0.49
+    },
+    {
+      "keyword": "summer vacation",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 30428.0
+      },
+      "trend_score": 0.49
+    },
+    {
+      "keyword": "Loves",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "inst",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "Truly",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "One",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "Hwang Young woong",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "황영웅",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "If One Truly Loves (Original Soundtrack)",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "If One Truly Loves (inst.)",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 29986.0
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "아이유 초콜릿",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 250.0
+      },
+      "trend_score": 0.43
+    },
+    {
+      "keyword": "금리 인상 부동산",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 250.0
+      },
+      "trend_score": 0.43
+    },
+    {
+      "keyword": "V.O.S",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 27081.0
+      },
+      "trend_score": 0.42
+    },
+    {
+      "keyword": "Kim Soo-bin (AIMING)",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 27081.0
+      },
+      "trend_score": 0.42
+    },
+    {
+      "keyword": "Lim Soo-hyuk (AIMING)",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 27081.0
+      },
+      "trend_score": 0.42
+    },
+    {
+      "keyword": "Park Geun-tae",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 27081.0
+      },
+      "trend_score": 0.42
+    },
+    {
+      "keyword": "Kang Eun-kyung",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 27081.0
+      },
+      "trend_score": 0.42
+    },
+    {
+      "keyword": "I made a mistake",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 27081.0
+      },
+      "trend_score": 0.42
+    },
+    {
+      "keyword": "고추잠자리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 26615.0
+      },
+      "trend_score": 0.41
+    },
+    {
+      "keyword": "작은 봄",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 26615.0
+      },
+      "trend_score": 0.41
+    },
+    {
+      "keyword": "청나음악",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 23748.0
+      },
+      "trend_score": 0.35
+    },
+    {
+      "keyword": "그길을혼자가오",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 23748.0
+      },
+      "trend_score": 0.35
+    },
+    {
+      "keyword": "발 로란트 챔피언스",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 190.0
+      },
+      "trend_score": 0.33
+    },
+    {
+      "keyword": "chatgpt video",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 180.0
+      },
+      "trend_score": 0.31
+    },
+    {
+      "keyword": "아이유 이효리",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 170.0
+      },
+      "trend_score": 0.29
+    },
+    {
+      "keyword": "주식 종목 추천",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 170.0
+      },
+      "trend_score": 0.29
+    },
+    {
+      "keyword": "곽동현",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20452.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "안할걸",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20452.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "않을까요",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "만들어야",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "JTBC",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "JTBC Drama",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "제이티비씨",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "제이티비씨드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "지성",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "하윤경",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "박병은",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "문소리",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "드라마아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "JTBC토일드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "토일드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "JTBC아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "JTBC드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "아파트4회예고",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "지성아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "하윤경아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "박병은아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "문소리아파트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "아파트티저",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "아파트미리보기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "드라마티저",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "신입사원강회장후속드라마",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "아파트공식영상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "apartmentjob",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "Ji Sung",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "Ha Yoon-kyung",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "Park Byung-eun",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "Moon Sori",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 20380.0
+      },
+      "trend_score": 0.28
+    },
+    {
+      "keyword": "워터 밤 패션",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 160.0
+      },
+      "trend_score": 0.27
+    },
+    {
+      "keyword": "chatgpt work",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 150.0
+      },
+      "trend_score": 0.26
+    },
+    {
+      "keyword": "콩순이 코딩 컴퓨터",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 150.0
+      },
+      "trend_score": 0.26
+    },
+    {
+      "keyword": "효리 네 민박 아이유",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 150.0
+      },
+      "trend_score": 0.26
+    },
+    {
+      "keyword": "chatgpt vs claude",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 0.24
+    },
+    {
+      "keyword": "발 로란트 야시장",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 0.24
+    },
+    {
+      "keyword": "삼계탕 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 0.24
+    },
+    {
+      "keyword": "이재명 주식",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 0.24
+    },
+    {
+      "keyword": "주식 유 튜버",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 0.24
+    },
+    {
+      "keyword": "클래식 롤",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 130.0
+      },
+      "trend_score": 0.22
+    },
+    {
+      "keyword": "코딩 ai 추천",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 100.0
+      },
+      "trend_score": 0.17
+    },
+    {
+      "keyword": "롤 t1",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 100.0
+      },
+      "trend_score": 0.17
+    },
+    {
+      "keyword": "Happy",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 14129.0
+      },
+      "trend_score": 0.16
+    },
+    {
+      "keyword": "Don",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 14129.0
+      },
+      "trend_score": 0.16
+    },
+    {
+      "keyword": "DK",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 14129.0
+      },
+      "trend_score": 0.16
+    },
+    {
+      "keyword": "Don't Be Happy",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 14129.0
+      },
+      "trend_score": 0.16
+    },
+    {
+      "keyword": "클래 리티 법안",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 90.0
+      },
+      "trend_score": 0.15
+    },
+    {
+      "keyword": "아이유 스트로 베리 문",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 80.0
+      },
+      "trend_score": 0.14
+    },
+    {
+      "keyword": "롤 뱅가드 오류",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 80.0
+      },
+      "trend_score": 0.14
+    },
+    {
+      "keyword": "닭 한마리 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 80.0
+      },
+      "trend_score": 0.14
+    },
+    {
+      "keyword": "우정 잉 주식",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 80.0
+      },
+      "trend_score": 0.14
+    },
+    {
+      "keyword": "chatgpt go",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.12
+    },
+    {
+      "keyword": "codex",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.12
+    },
+    {
+      "keyword": "차근 차근 게임 코딩",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.12
+    },
+    {
+      "keyword": "코딩 하는 거니",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.12
+    },
+    {
+      "keyword": "김포 부동산",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.12
+    },
+    {
+      "keyword": "부동산 대책",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.12
+    },
+    {
+      "keyword": "남겨진",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "눈물의",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "가족에게",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "마지막",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "전하는",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "청나",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "5060노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "감성트로트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "중년트로트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "한국트로트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "국악팝",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "국악발라드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "슬픈발라드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "위로가되는노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "인생노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "세월노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "한서린노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "부모님노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "애절한발라드",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "태성",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "인생무상",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "이별노래추천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "슬픈노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "한국전통음악",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "GugakPop",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "대금",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "피아노",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "한(恨)의노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "5060추천곡",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "마지막이야기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "가족노래",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 11874.0
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "아이유",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 63.053254437869825
+      },
+      "trend_score": 0.11
+    },
+    {
+      "keyword": "브이로그",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.3905325443787
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.04733727810651
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "gpt 5.6",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "chatgpt codex",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "chatgpt live",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "아이유 의 팔레트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "삼계탕 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "코엑스 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "닭계장 황금 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "부동산 정책",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.1
+    },
+    {
+      "keyword": "레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 52.562130177514796
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 51.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "코딩 강의",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "아이유 킬링 보이스",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "아이유 러브 포엠",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "아이유 팔레트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "롤 스킨",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "남원 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "생생 정보통 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "풍자 다이어트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "이재명 부동산 정책",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "금 나와라 부동산",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "아티스트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "Artists",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "어나니머스",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "Anonymous",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "Art",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "랩",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "힙합",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "Rap",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "Hiphop",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "Anonymous Artists",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "감성힙합",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "감성랩",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "청춘",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "위로",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "공감",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "어른",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "스무살",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "20대",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "방황",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "고민",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "성장",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "일기",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "새벽감성",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "노래추천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "힙합추천",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "국내힙합",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "국힙",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "인디힙합",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "숨듣명",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "어나니머스아티스트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "어나니머스 아티스트",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "어나니",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 10226.0
+      },
+      "trend_score": 0.08
+    },
+    {
+      "keyword": "ai 안경",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "유인 나 아이유",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "아이유 너의 의미",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "잊어야 하는 마음 으로 아이유",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "아이유 love wins all",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "아이유 분홍 신",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "홍천 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "화사 다이어트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "닭 갈비 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "패션 오브 크라이스트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.07
+    },
+    {
+      "keyword": "뉴진스",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 37.828402366863905
+      },
+      "trend_score": 0.06
+    },
+    {
+      "keyword": "주식",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 37.72781065088758
+      },
+      "trend_score": 0.06
+    },
+    {
+      "keyword": "부동산",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 12.29585798816568
+      },
+      "trend_score": 0.02
+    },
+    {
+      "keyword": "비트코인",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 9.36094674556213
+      },
+      "trend_score": 0.02
+    },
+    {
+      "keyword": "패션",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 6.414201183431953
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "코딩",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 4.005917159763314
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "Have",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6602.0
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "Let",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6602.0
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "J-Cera",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6602.0
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "제이세라",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6602.0
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "놓아줘야해",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6602.0
+      },
+      "trend_score": 0.01
+    },
+    {
+      "keyword": "Confession",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6503.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "Oh yeonha",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6503.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "오연하",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6503.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "My Confession",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6503.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "Over",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6352.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "Not",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6352.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "idntt",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6352.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "idntt (아이덴티티)",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6352.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "itsnotover",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6352.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "It's Not Over",
+      "sources": [
+        "youtube_trending"
+      ],
+      "raw": {
+        "youtube_trending": 6352.0
+      },
+      "trend_score": 0.0
+    },
+    {
+      "keyword": "딥러닝",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 0.01775147928994083,
+        "naver_datalab": 0.11710799999999999
+      },
+      "trend_score": 0.0
+    }
+  ]
+}
