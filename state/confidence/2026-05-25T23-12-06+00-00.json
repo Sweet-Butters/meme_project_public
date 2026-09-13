@@ -1,0 +1,765 @@
+{
+  "_meta": {
+    "source": "confidence",
+    "fetched_at": "2026-05-25T23:12:06+00:00"
+  },
+  "rrf_k": 60,
+  "top10_threshold": 10,
+  "sources_used": [
+    "pytrends_sector",
+    "naver_datalab"
+  ],
+  "total_keywords": 83,
+  "keywords": [
+    {
+      "keyword": "AI",
+      "n_sources_present": 2,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 42,
+        "naver_datalab": 1
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "keyword": "ChatGPT",
+      "n_sources_present": 2,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 82,
+        "naver_datalab": 2
+      },
+      "confidence_score": 0.884
+    },
+    {
+      "keyword": "딥러닝",
+      "n_sources_present": 2,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 83,
+        "naver_datalab": 3
+      },
+      "confidence_score": 0.873
+    },
+    {
+      "keyword": "gothamchess chatgpt",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 1
+      },
+      "confidence_score": 0.626
+    },
+    {
+      "keyword": "하정우 주식",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 2
+      },
+      "confidence_score": 0.616
+    },
+    {
+      "keyword": "아이유 정신과",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 3
+      },
+      "confidence_score": 0.606
+    },
+    {
+      "keyword": "아이유 치파오",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 4
+      },
+      "confidence_score": 0.596
+    },
+    {
+      "keyword": "ewc 발 로란트",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 5
+      },
+      "confidence_score": 0.587
+    },
+    {
+      "keyword": "ewc",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 6
+      },
+      "confidence_score": 0.578
+    },
+    {
+      "keyword": "설리 오빠 아이유",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 7
+      },
+      "confidence_score": 0.57
+    },
+    {
+      "keyword": "아이유 광둥어",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 8
+      },
+      "confidence_score": 0.561
+    },
+    {
+      "keyword": "아이유 대수 대명",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 9
+      },
+      "confidence_score": 0.553
+    },
+    {
+      "keyword": "대수 대명",
+      "n_sources_present": 1,
+      "n_sources_top10": 1,
+      "rank_per_source": {
+        "pytrends_sector": 10
+      },
+      "confidence_score": 0.545
+    },
+    {
+      "keyword": "원희 공항 패션",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 11
+      },
+      "confidence_score": 0.538
+    },
+    {
+      "keyword": "how to install chatgpt on calculator",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 12
+      },
+      "confidence_score": 0.53
+    },
+    {
+      "keyword": "설리 아이유",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 13
+      },
+      "confidence_score": 0.523
+    },
+    {
+      "keyword": "설리",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 14
+      },
+      "confidence_score": 0.516
+    },
+    {
+      "keyword": "아이유 제제",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 15
+      },
+      "confidence_score": 0.509
+    },
+    {
+      "keyword": "차근 차근 게임 코딩",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 16
+      },
+      "confidence_score": 0.502
+    },
+    {
+      "keyword": "아이유 간첩",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 17
+      },
+      "confidence_score": 0.496
+    },
+    {
+      "keyword": "아이유 슬라임",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 18
+      },
+      "confidence_score": 0.489
+    },
+    {
+      "keyword": "롤 뱅가드 오류",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 19
+      },
+      "confidence_score": 0.483
+    },
+    {
+      "keyword": "선거 운동",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 20
+      },
+      "confidence_score": 0.477
+    },
+    {
+      "keyword": "아이유 중국",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 21
+      },
+      "confidence_score": 0.471
+    },
+    {
+      "keyword": "최태성 롤 드컵",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 22
+      },
+      "confidence_score": 0.466
+    },
+    {
+      "keyword": "아이유 논란",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 23
+      },
+      "confidence_score": 0.46
+    },
+    {
+      "keyword": "롤 피시방",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 24
+      },
+      "confidence_score": 0.454
+    },
+    {
+      "keyword": "아이유 허 혜선",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 25
+      },
+      "confidence_score": 0.449
+    },
+    {
+      "keyword": "주식 연구소",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 26
+      },
+      "confidence_score": 0.444
+    },
+    {
+      "keyword": "하부 승모근 운동",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 27
+      },
+      "confidence_score": 0.439
+    },
+    {
+      "keyword": "허 혜선",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 28
+      },
+      "confidence_score": 0.434
+    },
+    {
+      "keyword": "국민 연금 주식",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 29
+      },
+      "confidence_score": 0.429
+    },
+    {
+      "keyword": "스크래치 코딩",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 30
+      },
+      "confidence_score": 0.424
+    },
+    {
+      "keyword": "생활 코딩 파이썬",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 31
+      },
+      "confidence_score": 0.419
+    },
+    {
+      "keyword": "롤 세계관",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 32
+      },
+      "confidence_score": 0.415
+    },
+    {
+      "keyword": "곡성 맛집",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 33
+      },
+      "confidence_score": 0.41
+    },
+    {
+      "keyword": "오삼 불고기 황금 레시피",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 34
+      },
+      "confidence_score": 0.406
+    },
+    {
+      "keyword": "주식 뉴스",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 35
+      },
+      "confidence_score": 0.402
+    },
+    {
+      "keyword": "코딩 하는 거니",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 36
+      },
+      "confidence_score": 0.398
+    },
+    {
+      "keyword": "오즈 코딩 스쿨",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 37
+      },
+      "confidence_score": 0.394
+    },
+    {
+      "keyword": "메타 ai",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 38
+      },
+      "confidence_score": 0.39
+    },
+    {
+      "keyword": "김치전 레시피",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 39
+      },
+      "confidence_score": 0.386
+    },
+    {
+      "keyword": "518 민주화 운동",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 40
+      },
+      "confidence_score": 0.382
+    },
+    {
+      "keyword": "518",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 41
+      },
+      "confidence_score": 0.378
+    },
+    {
+      "keyword": "너의 의미 아이유",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 43
+      },
+      "confidence_score": 0.371
+    },
+    {
+      "keyword": "ewc 롤",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 44
+      },
+      "confidence_score": 0.367
+    },
+    {
+      "keyword": "홍현희 다이어트",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 45
+      },
+      "confidence_score": 0.364
+    },
+    {
+      "keyword": "비트 코인 전망",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 46
+      },
+      "confidence_score": 0.36
+    },
+    {
+      "keyword": "아이유",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 47
+      },
+      "confidence_score": 0.357
+    },
+    {
+      "keyword": "운동",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 48
+      },
+      "confidence_score": 0.353
+    },
+    {
+      "keyword": "롤",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 49
+      },
+      "confidence_score": 0.35
+    },
+    {
+      "keyword": "김신영 다이어트",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 50
+      },
+      "confidence_score": 0.347
+    },
+    {
+      "keyword": "광주 민주화 운동",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 51
+      },
+      "confidence_score": 0.344
+    },
+    {
+      "keyword": "브이로그",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 52
+      },
+      "confidence_score": 0.341
+    },
+    {
+      "keyword": "주식",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 53
+      },
+      "confidence_score": 0.338
+    },
+    {
+      "keyword": "코딩 팩토리",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 54
+      },
+      "confidence_score": 0.335
+    },
+    {
+      "keyword": "뉴 진스 님",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 55
+      },
+      "confidence_score": 0.332
+    },
+    {
+      "keyword": "롤 제리",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 56
+      },
+      "confidence_score": 0.329
+    },
+    {
+      "keyword": "발 로란트 스킨",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 57
+      },
+      "confidence_score": 0.326
+    },
+    {
+      "keyword": "플래시백",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 58
+      },
+      "confidence_score": 0.323
+    },
+    {
+      "keyword": "주식 추천",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 59
+      },
+      "confidence_score": 0.321
+    },
+    {
+      "keyword": "부산 부동산",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 60
+      },
+      "confidence_score": 0.318
+    },
+    {
+      "keyword": "송도 부동산",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 61
+      },
+      "confidence_score": 0.315
+    },
+    {
+      "keyword": "5.18 민주화 운동",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 62
+      },
+      "confidence_score": 0.313
+    },
+    {
+      "keyword": "새깅 패션",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 63
+      },
+      "confidence_score": 0.31
+    },
+    {
+      "keyword": "맛집",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 64
+      },
+      "confidence_score": 0.308
+    },
+    {
+      "keyword": "레시피",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 65
+      },
+      "confidence_score": 0.305
+    },
+    {
+      "keyword": "다이어트",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 66
+      },
+      "confidence_score": 0.303
+    },
+    {
+      "keyword": "아이유 역사 왜곡",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 67
+      },
+      "confidence_score": 0.301
+    },
+    {
+      "keyword": "모자이크 롤",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 68
+      },
+      "confidence_score": 0.298
+    },
+    {
+      "keyword": "롤 티어",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 69
+      },
+      "confidence_score": 0.296
+    },
+    {
+      "keyword": "영종도 맛집",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 70
+      },
+      "confidence_score": 0.294
+    },
+    {
+      "keyword": "안동 맛집",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 71
+      },
+      "confidence_score": 0.291
+    },
+    {
+      "keyword": "거제 맛집",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 72
+      },
+      "confidence_score": 0.289
+    },
+    {
+      "keyword": "탕 후루 의 달인 파르페 레시피",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 73
+      },
+      "confidence_score": 0.287
+    },
+    {
+      "keyword": "발로란트",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 74
+      },
+      "confidence_score": 0.285
+    },
+    {
+      "keyword": "뉴진스",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 75
+      },
+      "confidence_score": 0.283
+    },
+    {
+      "keyword": "케이팝",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 76
+      },
+      "confidence_score": 0.281
+    },
+    {
+      "keyword": "마인크래프트",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 77
+      },
+      "confidence_score": 0.279
+    },
+    {
+      "keyword": "부동산",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 78
+      },
+      "confidence_score": 0.277
+    },
+    {
+      "keyword": "비트코인",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 79
+      },
+      "confidence_score": 0.275
+    },
+    {
+      "keyword": "패션",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 80
+      },
+      "confidence_score": 0.273
+    },
+    {
+      "keyword": "코딩",
+      "n_sources_present": 1,
+      "n_sources_top10": 0,
+      "rank_per_source": {
+        "pytrends_sector": 81
+      },
+      "confidence_score": 0.271
+    }
+  ]
+}

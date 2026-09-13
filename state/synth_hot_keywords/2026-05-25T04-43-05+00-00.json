@@ -1,0 +1,866 @@
+{
+  "_meta": {
+    "source": "synth_hot_keywords",
+    "fetched_at": "2026-05-25T04:43:05+00:00"
+  },
+  "sources_used": [
+    "pytrends_sector",
+    "naver_datalab"
+  ],
+  "weights": {
+    "naver_search_ad": 1.0,
+    "youtube_trending": 0.8,
+    "tiktok_creative": 0.7,
+    "pytrends_sector": 0.5,
+    "naver_datalab": 0.5
+  },
+  "total_keywords": 84,
+  "keywords": [
+    {
+      "keyword": "AI",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 75.95266272189349,
+        "naver_datalab": 93.30191599999999
+      },
+      "trend_score": 100.0
+    },
+    {
+      "keyword": "ChatGPT",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 0.8106508875739645,
+        "naver_datalab": 93.30191599999999
+      },
+      "trend_score": 99.33
+    },
+    {
+      "keyword": "딥러닝",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 0.023668639053254437,
+        "naver_datalab": 93.30191599999999
+      },
+      "trend_score": 99.32
+    },
+    {
+      "keyword": "하정우 주식",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 11150.0
+      },
+      "trend_score": 86.37
+    },
+    {
+      "keyword": "롤 pc 방",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 3300.0
+      },
+      "trend_score": 25.56
+    },
+    {
+      "keyword": "히라이",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1850.0
+      },
+      "trend_score": 14.33
+    },
+    {
+      "keyword": "롤 피시방",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1700.0
+      },
+      "trend_score": 13.17
+    },
+    {
+      "keyword": "롤 아시안 게임 멤버",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1600.0
+      },
+      "trend_score": 12.39
+    },
+    {
+      "keyword": "롤 국가 대표",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1400.0
+      },
+      "trend_score": 10.84
+    },
+    {
+      "keyword": "아시안 게임 롤 명단",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1250.0
+      },
+      "trend_score": 9.68
+    },
+    {
+      "keyword": "아시안 게임",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1150.0
+      },
+      "trend_score": 8.91
+    },
+    {
+      "keyword": "아시안 게임 롤",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1100.0
+      },
+      "trend_score": 8.52
+    },
+    {
+      "keyword": "롤 국대 명단",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 1000.0
+      },
+      "trend_score": 7.75
+    },
+    {
+      "keyword": "아겜 롤",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 850.0
+      },
+      "trend_score": 6.58
+    },
+    {
+      "keyword": "ewc 발 로란트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 550.0
+      },
+      "trend_score": 4.26
+    },
+    {
+      "keyword": "518 민주화 운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 550.0
+      },
+      "trend_score": 4.26
+    },
+    {
+      "keyword": "아이유 광둥어",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 450.0
+      },
+      "trend_score": 3.49
+    },
+    {
+      "keyword": "아이유 대수 대명",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 450.0
+      },
+      "trend_score": 3.49
+    },
+    {
+      "keyword": "아이유 역사 왜곡",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 400.0
+      },
+      "trend_score": 3.1
+    },
+    {
+      "keyword": "스페이스 x 비트 코인",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 400.0
+      },
+      "trend_score": 3.1
+    },
+    {
+      "keyword": "아이유 논란",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 350.0
+      },
+      "trend_score": 2.71
+    },
+    {
+      "keyword": "5 18 민주화 운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 350.0
+      },
+      "trend_score": 2.71
+    },
+    {
+      "keyword": "5.18 민주화 운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 350.0
+      },
+      "trend_score": 2.71
+    },
+    {
+      "keyword": "광주 민주화 운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 350.0
+      },
+      "trend_score": 2.71
+    },
+    {
+      "keyword": "아이유 중국",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 300.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "아이유 간첩",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 300.0
+      },
+      "trend_score": 2.32
+    },
+    {
+      "keyword": "아이유 제제",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 250.0
+      },
+      "trend_score": 1.94
+    },
+    {
+      "keyword": "21 세기 대군 부인 논란",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 250.0
+      },
+      "trend_score": 1.94
+    },
+    {
+      "keyword": "아이유 설리",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 180.0
+      },
+      "trend_score": 1.39
+    },
+    {
+      "keyword": "최태성 롤 드컵",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 180.0
+      },
+      "trend_score": 1.39
+    },
+    {
+      "keyword": "아이유 사과",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 170.0
+      },
+      "trend_score": 1.32
+    },
+    {
+      "keyword": "설리",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 170.0
+      },
+      "trend_score": 1.32
+    },
+    {
+      "keyword": "발 로란트 국대",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 150.0
+      },
+      "trend_score": 1.16
+    },
+    {
+      "keyword": "선거 운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 150.0
+      },
+      "trend_score": 1.16
+    },
+    {
+      "keyword": "곡성 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 1.08
+    },
+    {
+      "keyword": "비트 코인 캐시",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 1.08
+    },
+    {
+      "keyword": "원희 공항 패션",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 140.0
+      },
+      "trend_score": 1.08
+    },
+    {
+      "keyword": "오즈 코딩 스쿨",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 130.0
+      },
+      "trend_score": 1.01
+    },
+    {
+      "keyword": "롤 뱅가드 오류",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 130.0
+      },
+      "trend_score": 1.01
+    },
+    {
+      "keyword": "김신영 다이어트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 130.0
+      },
+      "trend_score": 1.01
+    },
+    {
+      "keyword": "오삼 불고기 황금 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 120.0
+      },
+      "trend_score": 0.93
+    },
+    {
+      "keyword": "메타 ai",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 110.0
+      },
+      "trend_score": 0.85
+    },
+    {
+      "keyword": "하부 승모근 운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 110.0
+      },
+      "trend_score": 0.85
+    },
+    {
+      "keyword": "마인 크래프트 코딩",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 90.0
+      },
+      "trend_score": 0.7
+    },
+    {
+      "keyword": "차근 차근 게임 코딩",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 90.0
+      },
+      "trend_score": 0.7
+    },
+    {
+      "keyword": "발 로란트 신 스킨",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 90.0
+      },
+      "trend_score": 0.7
+    },
+    {
+      "keyword": "ai 쇼츠",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 80.0
+      },
+      "trend_score": 0.62
+    },
+    {
+      "keyword": "주식 연구소",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 80.0
+      },
+      "trend_score": 0.62
+    },
+    {
+      "keyword": "코딩 하는 거니",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.54
+    },
+    {
+      "keyword": "롤 세계관",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.54
+    },
+    {
+      "keyword": "플래시백 발 로란트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.54
+    },
+    {
+      "keyword": "홍현희 다이어트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.54
+    },
+    {
+      "keyword": "김치전 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 70.0
+      },
+      "trend_score": 0.54
+    },
+    {
+      "keyword": "운동",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 64.20710059171597
+      },
+      "trend_score": 0.5
+    },
+    {
+      "keyword": "아이유",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 62.201183431952664
+      },
+      "trend_score": 0.48
+    },
+    {
+      "keyword": "비트 코인 전망",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.46
+    },
+    {
+      "keyword": "여긴 패션 시티",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.46
+    },
+    {
+      "keyword": "지디 패션",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 60.0
+      },
+      "trend_score": 0.46
+    },
+    {
+      "keyword": "브이로그",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 57.57396449704142
+      },
+      "trend_score": 0.45
+    },
+    {
+      "keyword": "아이유 눈물",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "안동 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "단양 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "여주 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "가지 볶음 황금 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "불닭 냉면 레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "주식 뉴스",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 50.0
+      },
+      "trend_score": 0.39
+    },
+    {
+      "keyword": "주식",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 47.887573964497044
+      },
+      "trend_score": 0.37
+    },
+    {
+      "keyword": "레시피",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 47.42011834319526
+      },
+      "trend_score": 0.37
+    },
+    {
+      "keyword": "맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 46.62721893491124
+      },
+      "trend_score": 0.36
+    },
+    {
+      "keyword": "다이어트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 46.18343195266272
+      },
+      "trend_score": 0.36
+    },
+    {
+      "keyword": "sau này em cưới ai rồi",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.31
+    },
+    {
+      "keyword": "영월 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.31
+    },
+    {
+      "keyword": "거제도 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.31
+    },
+    {
+      "keyword": "울진 맛집",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.31
+    },
+    {
+      "keyword": "새깅 패션",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 40.0
+      },
+      "trend_score": 0.31
+    },
+    {
+      "keyword": "롤",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 34.828402366863905
+      },
+      "trend_score": 0.27
+    },
+    {
+      "keyword": "뉴진스",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 22.047337278106507
+      },
+      "trend_score": 0.17
+    },
+    {
+      "keyword": "발로란트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 19.846153846153847
+      },
+      "trend_score": 0.15
+    },
+    {
+      "keyword": "케이팝",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 19.473372781065088
+      },
+      "trend_score": 0.15
+    },
+    {
+      "keyword": "비트코인",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 11.798816568047338
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "마인크래프트",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 11.680473372781066
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "부동산",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 11.36094674556213
+      },
+      "trend_score": 0.09
+    },
+    {
+      "keyword": "패션",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 7.757396449704142
+      },
+      "trend_score": 0.06
+    },
+    {
+      "keyword": "코딩",
+      "sources": [
+        "pytrends_sector"
+      ],
+      "raw": {
+        "pytrends_sector": 4.781065088757397
+      },
+      "trend_score": 0.04
+    }
+  ]
+}

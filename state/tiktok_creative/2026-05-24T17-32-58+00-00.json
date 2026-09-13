@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "tiktok_creative",
+    "fetched_at": "2026-05-24T17:32:58+00:00"
+  },
+  "period_days": 7,
+  "country_code": "KR",
+  "limit": 50,
+  "hashtags": [],
+  "songs": [],
+  "errors": [
+    "HTTP 404 https://creativecenter.tiktok.com/web/api/v1/popular_trend/hashtag/list",
+    "HTTP 404 https://creativecenter.tiktok.com/web/api/v1/popular_trend/song/list"
+  ],
+  "hashtag_count": 0,
+  "song_count": 0
+}

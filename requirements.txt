@@ -1,0 +1,19 @@
+# Framework (pinned to a tag; bump deliberately)
+auto_project @ git+https://github.com/Sweet-Butters/auto_project@v0.5.0
+
+# YouTube
+yt-dlp>=2024.1.0
+google-api-python-client>=2.100
+youtube-transcript-api>=0.6
+
+# Google Trends (unofficial)
+pytrends>=4.9
+
+# HTTP / parsing
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# Dev (optional)
+# pytest>=8.0
+# ruff>=0.5

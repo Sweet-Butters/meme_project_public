@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "trend_brief",
+    "fetched_at": "2026-06-02T23:53:33+00:00"
+  },
+  "as_of": "2026-06-02",
+  "source": "stat_fallback (llm unavailable)",
+  "history_days_available": 14,
+  "label_counts": {
+    "🔥 Breakout": 70,
+    "📈 Rising": 4,
+    "💤 Steady": 665,
+    "📉 Declining": 38,
+    "🆕 New": 2253
+  },
+  "body": "📊 트렌드 브리프 — 2026-06-02\n\n## 🔥 폭발 (Breakout)\n  • **Official** (z=+10.0, 신뢰도 60%) — youtube_trending\n  • **MEOVV** (z=+10.0, 신뢰도 57%) — youtube_trending\n  • **미야오** (z=+10.0, 신뢰도 56%) — youtube_trending\n\n## 📈 상승 (Rising)\n  • **Atmos** (z=+2.0, 신뢰도 15%) — youtube_trending\n  • **SHINee** (z=+1.7, 신뢰도 15%) — youtube_trending\n  • **Pop** (z=+1.6, 신뢰도 26%) — youtube_trending\n  • **롤 5 인 랭크** (z=+1.4, 신뢰도 61%) — pytrends_sector\n\n## 📉 주의 (Declining)\n  • **하이브** (z=-1.0, 신뢰도 50%) — youtube_trending, pytrends_sector\n  • **HYBE LABELS** (z=-1.0, 신뢰도 10%) — youtube_trending\n  • **하이브레이블즈** (z=-1.0, 신뢰도 10%) — youtube_trending"
+}
