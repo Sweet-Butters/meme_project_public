@@ -1,0 +1,121 @@
+{
+  "_meta": {
+    "source": "naver_datalab",
+    "fetched_at": "2026-10-02T00:18:32+00:00"
+  },
+  "keyword_groups": [
+    {
+      "groupName": "AI",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "groupName": "딥러닝",
+      "keywords": [
+        "딥러닝"
+      ]
+    },
+    {
+      "groupName": "ChatGPT",
+      "keywords": [
+        "ChatGPT"
+      ]
+    }
+  ],
+  "start_date": "2026-09-02",
+  "end_date": "2026-10-02",
+  "time_unit": "week",
+  "main": {
+    "startDate": "2026-08-31",
+    "endDate": "2026-10-02",
+    "timeUnit": "week",
+    "results": [
+      {
+        "title": "AI",
+        "keywords": [
+          "AI"
+        ],
+        "data": [
+          {
+            "period": "2026-08-31",
+            "ratio": 5.03535
+          },
+          {
+            "period": "2026-09-07",
+            "ratio": 6.61873
+          },
+          {
+            "period": "2026-09-14",
+            "ratio": 7.21988
+          },
+          {
+            "period": "2026-09-21",
+            "ratio": 5.38982
+          },
+          {
+            "period": "2026-09-28",
+            "ratio": 2.92803
+          }
+        ]
+      },
+      {
+        "title": "딥러닝",
+        "keywords": [
+          "딥러닝"
+        ],
+        "data": [
+          {
+            "period": "2026-08-31",
+            "ratio": 0.10001
+          },
+          {
+            "period": "2026-09-07",
+            "ratio": 0.11573
+          },
+          {
+            "period": "2026-09-14",
+            "ratio": 0.10295
+          },
+          {
+            "period": "2026-09-21",
+            "ratio": 0.06961
+          },
+          {
+            "period": "2026-09-28",
+            "ratio": 0.06322
+          }
+        ]
+      },
+      {
+        "title": "ChatGPT",
+        "keywords": [
+          "ChatGPT"
+        ],
+        "data": [
+          {
+            "period": "2026-08-31",
+            "ratio": 87.46819
+          },
+          {
+            "period": "2026-09-07",
+            "ratio": 93.43136
+          },
+          {
+            "period": "2026-09-14",
+            "ratio": 100
+          },
+          {
+            "period": "2026-09-21",
+            "ratio": 76.45447
+          },
+          {
+            "period": "2026-09-28",
+            "ratio": 57.16573
+          }
+        ]
+      }
+    ]
+  },
+  "breakdowns": {}
+}

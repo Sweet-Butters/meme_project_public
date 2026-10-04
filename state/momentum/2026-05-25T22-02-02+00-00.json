@@ -1,0 +1,2136 @@
+{
+  "_meta": {
+    "source": "momentum",
+    "fetched_at": "2026-05-25T22:02:02+00:00"
+  },
+  "as_of": "2026-05-25",
+  "history_days_available": 14,
+  "baseline_window": 7,
+  "thresholds": {
+    "z_breakout": 2.0,
+    "z_rising": 1.0,
+    "z_declining": -1.0,
+    "min_std": 5.0,
+    "min_history": 3
+  },
+  "label_counts": {
+    "📈 Rising": 2,
+    "💤 Steady": 65,
+    "🆕 New": 95
+  },
+  "keywords": [
+    {
+      "keyword": "딥러닝",
+      "label": "📈 Rising",
+      "z_score": 1.16,
+      "velocity": 0.52,
+      "acceleration": 1.02,
+      "score_today": 99.84,
+      "mean_7d": 71.3,
+      "std_7d": 24.59,
+      "history_days": 8,
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ]
+    },
+    {
+      "keyword": "ChatGPT",
+      "label": "📈 Rising",
+      "z_score": 1.16,
+      "velocity": 0.51,
+      "acceleration": 1.0,
+      "score_today": 99.84,
+      "mean_7d": 76.43,
+      "std_7d": 20.15,
+      "history_days": 8,
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ]
+    },
+    {
+      "keyword": "하정우 주식",
+      "label": "💤 Steady",
+      "z_score": 0.65,
+      "velocity": -50.67,
+      "acceleration": -115.24,
+      "score_today": 35.7,
+      "mean_7d": 16.72,
+      "std_7d": 29.42,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "ewc 발 로란트",
+      "label": "💤 Steady",
+      "z_score": 0.08,
+      "velocity": -3.23,
+      "acceleration": -7.49,
+      "score_today": 1.03,
+      "mean_7d": 0.63,
+      "std_7d": 1.48,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "원희 공항 패션",
+      "label": "💤 Steady",
+      "z_score": 0.06,
+      "velocity": -0.61,
+      "acceleration": -1.55,
+      "score_today": 0.47,
+      "mean_7d": 0.18,
+      "std_7d": 0.37,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "차근 차근 게임 코딩",
+      "label": "💤 Steady",
+      "z_score": 0.04,
+      "velocity": -0.38,
+      "acceleration": -0.98,
+      "score_today": 0.32,
+      "mean_7d": 0.14,
+      "std_7d": 0.24,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "설리",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.98,
+      "acceleration": -2.06,
+      "score_today": 0.34,
+      "mean_7d": 0.23,
+      "std_7d": 0.45,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "롤 뱅가드 오류",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.69,
+      "acceleration": -1.44,
+      "score_today": 0.32,
+      "mean_7d": 0.2,
+      "std_7d": 0.34,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "선거 운동",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.84,
+      "acceleration": -1.78,
+      "score_today": 0.32,
+      "mean_7d": 0.2,
+      "std_7d": 0.4,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "하부 승모근 운동",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.63,
+      "acceleration": -1.32,
+      "score_today": 0.22,
+      "mean_7d": 0.14,
+      "std_7d": 0.29,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "주식 연구소",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.4,
+      "acceleration": -0.92,
+      "score_today": 0.22,
+      "mean_7d": 0.1,
+      "std_7d": 0.21,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "롤 세계관",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.35,
+      "acceleration": -0.73,
+      "score_today": 0.19,
+      "mean_7d": 0.11,
+      "std_7d": 0.18,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "코딩 하는 거니",
+      "label": "💤 Steady",
+      "z_score": 0.02,
+      "velocity": -0.37,
+      "acceleration": -0.91,
+      "score_today": 0.17,
+      "mean_7d": 0.09,
+      "std_7d": 0.19,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 제제",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -1.6,
+      "acceleration": -3.54,
+      "score_today": 0.34,
+      "mean_7d": 0.3,
+      "std_7d": 0.67,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "오삼 불고기 황금 레시피",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.74,
+      "acceleration": -1.53,
+      "score_today": 0.19,
+      "mean_7d": 0.16,
+      "std_7d": 0.32,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "김치전 레시피",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.39,
+      "acceleration": -0.83,
+      "score_today": 0.15,
+      "mean_7d": 0.1,
+      "std_7d": 0.18,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.35,
+      "acceleration": -0.7,
+      "score_today": 0.13,
+      "mean_7d": 0.09,
+      "std_7d": 0.16,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "비트 코인 전망",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.33,
+      "acceleration": -0.63,
+      "score_today": 0.13,
+      "mean_7d": 0.1,
+      "std_7d": 0.16,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "롤",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.15,
+      "acceleration": -0.35,
+      "score_today": 0.12,
+      "mean_7d": 0.05,
+      "std_7d": 0.09,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "주식",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.27,
+      "acceleration": -0.54,
+      "score_today": 0.1,
+      "mean_7d": 0.07,
+      "std_7d": 0.13,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "부산 부동산",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": 0.09,
+      "acceleration": 0.17,
+      "score_today": 0.09,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "새깅 패션",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.22,
+      "acceleration": -0.43,
+      "score_today": 0.09,
+      "mean_7d": 0.06,
+      "std_7d": 0.11,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "뉴 진스 님",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": 0.09,
+      "acceleration": 0.33,
+      "score_today": 0.09,
+      "mean_7d": 0.05,
+      "std_7d": 0.09,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "발로란트",
+      "label": "💤 Steady",
+      "z_score": 0.01,
+      "velocity": -0.08,
+      "acceleration": -0.19,
+      "score_today": 0.07,
+      "mean_7d": 0.03,
+      "std_7d": 0.05,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "AI",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 100.0,
+      "mean_7d": 100.0,
+      "std_7d": 0.0,
+      "history_days": 8,
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ]
+    },
+    {
+      "keyword": "최태성 롤 드컵",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -1.09,
+      "acceleration": -2.07,
+      "score_today": 0.3,
+      "mean_7d": 0.28,
+      "std_7d": 0.47,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "곡성 맛집",
+      "label": "💤 Steady",
+      "z_score": -0.0,
+      "velocity": -0.89,
+      "acceleration": -1.71,
+      "score_today": 0.19,
+      "mean_7d": 0.19,
+      "std_7d": 0.37,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "메타 ai",
+      "label": "💤 Steady",
+      "z_score": -0.0,
+      "velocity": -0.7,
+      "acceleration": -1.33,
+      "score_today": 0.15,
+      "mean_7d": 0.16,
+      "std_7d": 0.29,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "홍현희 다이어트",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.41,
+      "acceleration": -0.77,
+      "score_today": 0.13,
+      "mean_7d": 0.11,
+      "std_7d": 0.18,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "운동",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.38,
+      "acceleration": -0.75,
+      "score_today": 0.12,
+      "mean_7d": 0.1,
+      "std_7d": 0.17,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "브이로그",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.34,
+      "acceleration": -0.67,
+      "score_today": 0.11,
+      "mean_7d": 0.09,
+      "std_7d": 0.15,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "레시피",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.28,
+      "acceleration": -0.55,
+      "score_today": 0.09,
+      "mean_7d": 0.07,
+      "std_7d": 0.13,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "맛집",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.27,
+      "acceleration": -0.54,
+      "score_today": 0.09,
+      "mean_7d": 0.07,
+      "std_7d": 0.12,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "다이어트",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.28,
+      "acceleration": -0.55,
+      "score_today": 0.08,
+      "mean_7d": 0.07,
+      "std_7d": 0.12,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "뉴진스",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.12,
+      "acceleration": -0.25,
+      "score_today": 0.05,
+      "mean_7d": 0.03,
+      "std_7d": 0.06,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "케이팝",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.1,
+      "acceleration": -0.21,
+      "score_today": 0.05,
+      "mean_7d": 0.03,
+      "std_7d": 0.05,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "마인크래프트",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.05,
+      "acceleration": -0.12,
+      "score_today": 0.04,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "부동산",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.07,
+      "acceleration": -0.14,
+      "score_today": 0.02,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "비트코인",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.07,
+      "acceleration": -0.14,
+      "score_today": 0.02,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "패션",
+      "label": "💤 Steady",
+      "z_score": -0.0,
+      "velocity": -0.05,
+      "acceleration": -0.09,
+      "score_today": 0.01,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "코딩",
+      "label": "💤 Steady",
+      "z_score": 0.0,
+      "velocity": -0.03,
+      "acceleration": -0.06,
+      "score_today": 0.01,
+      "mean_7d": 0.01,
+      "std_7d": 0.01,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "오즈 코딩 스쿨",
+      "label": "💤 Steady",
+      "z_score": -0.01,
+      "velocity": -0.84,
+      "acceleration": -1.46,
+      "score_today": 0.17,
+      "mean_7d": 0.22,
+      "std_7d": 0.35,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "울진 맛집",
+      "label": "💤 Steady",
+      "z_score": -0.01,
+      "velocity": -0.31,
+      "acceleration": -0.54,
+      "score_today": 0.0,
+      "mean_7d": 0.06,
+      "std_7d": 0.11,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "불닭 냉면 레시피",
+      "label": "💤 Steady",
+      "z_score": -0.02,
+      "velocity": -0.39,
+      "acceleration": -0.58,
+      "score_today": 0.0,
+      "mean_7d": 0.1,
+      "std_7d": 0.14,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 대수 대명",
+      "label": "💤 Steady",
+      "z_score": -0.03,
+      "velocity": -3.02,
+      "acceleration": -5.7,
+      "score_today": 0.47,
+      "mean_7d": 0.61,
+      "std_7d": 1.21,
+      "history_days": 3,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 간첩",
+      "label": "💤 Steady",
+      "z_score": -0.03,
+      "velocity": -2.0,
+      "acceleration": -3.61,
+      "score_today": 0.32,
+      "mean_7d": 0.47,
+      "std_7d": 0.79,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "김신영 다이어트",
+      "label": "💤 Steady",
+      "z_score": -0.03,
+      "velocity": -0.9,
+      "acceleration": -1.4,
+      "score_today": 0.11,
+      "mean_7d": 0.25,
+      "std_7d": 0.36,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 눈물",
+      "label": "💤 Steady",
+      "z_score": -0.03,
+      "velocity": -0.39,
+      "acceleration": -0.17,
+      "score_today": 0.0,
+      "mean_7d": 0.17,
+      "std_7d": 0.23,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "발 로란트 국대",
+      "label": "💤 Steady",
+      "z_score": -0.04,
+      "velocity": -1.16,
+      "acceleration": -2.18,
+      "score_today": 0.0,
+      "mean_7d": 0.2,
+      "std_7d": 0.4,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 중국",
+      "label": "💤 Steady",
+      "z_score": -0.05,
+      "velocity": -2.02,
+      "acceleration": -3.22,
+      "score_today": 0.3,
+      "mean_7d": 0.55,
+      "std_7d": 0.82,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 설리",
+      "label": "💤 Steady",
+      "z_score": -0.05,
+      "velocity": -1.39,
+      "acceleration": -2.52,
+      "score_today": 0.0,
+      "mean_7d": 0.24,
+      "std_7d": 0.48,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 논란",
+      "label": "💤 Steady",
+      "z_score": -0.07,
+      "velocity": -2.45,
+      "acceleration": -4.04,
+      "score_today": 0.26,
+      "mean_7d": 0.59,
+      "std_7d": 0.94,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 광둥어",
+      "label": "💤 Steady",
+      "z_score": -0.08,
+      "velocity": -2.93,
+      "acceleration": -4.29,
+      "score_today": 0.56,
+      "mean_7d": 0.95,
+      "std_7d": 1.28,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "광주 민주화 운동",
+      "label": "💤 Steady",
+      "z_score": -0.09,
+      "velocity": -2.6,
+      "acceleration": -4.5,
+      "score_today": 0.11,
+      "mean_7d": 0.54,
+      "std_7d": 0.93,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "5.18 민주화 운동",
+      "label": "💤 Steady",
+      "z_score": -0.09,
+      "velocity": -2.62,
+      "acceleration": -4.52,
+      "score_today": 0.09,
+      "mean_7d": 0.54,
+      "std_7d": 0.93,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "5 18 민주화 운동",
+      "label": "💤 Steady",
+      "z_score": -0.11,
+      "velocity": -2.71,
+      "acceleration": -4.61,
+      "score_today": 0.0,
+      "mean_7d": 0.56,
+      "std_7d": 0.92,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "518 민주화 운동",
+      "label": "💤 Steady",
+      "z_score": -0.14,
+      "velocity": -4.11,
+      "acceleration": -7.05,
+      "score_today": 0.15,
+      "mean_7d": 0.87,
+      "std_7d": 1.46,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아겜 롤",
+      "label": "💤 Steady",
+      "z_score": -0.25,
+      "velocity": -6.58,
+      "acceleration": -11.44,
+      "score_today": 0.0,
+      "mean_7d": 1.24,
+      "std_7d": 2.26,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "롤 국대 명단",
+      "label": "💤 Steady",
+      "z_score": -0.29,
+      "velocity": -7.75,
+      "acceleration": -13.98,
+      "score_today": 0.0,
+      "mean_7d": 1.44,
+      "std_7d": 2.63,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아시안 게임",
+      "label": "💤 Steady",
+      "z_score": -0.33,
+      "velocity": -8.91,
+      "acceleration": -15.69,
+      "score_today": 0.0,
+      "mean_7d": 1.67,
+      "std_7d": 3.04,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아시안 게임 롤",
+      "label": "💤 Steady",
+      "z_score": -0.33,
+      "velocity": -8.52,
+      "acceleration": -14.71,
+      "score_today": 0.0,
+      "mean_7d": 1.65,
+      "std_7d": 2.91,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아시안 게임 롤 명단",
+      "label": "💤 Steady",
+      "z_score": -0.41,
+      "velocity": -9.68,
+      "acceleration": -16.01,
+      "score_today": 0.0,
+      "mean_7d": 2.06,
+      "std_7d": 3.32,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "롤 피시방",
+      "label": "💤 Steady",
+      "z_score": -0.42,
+      "velocity": -12.91,
+      "acceleration": -23.75,
+      "score_today": 0.26,
+      "mean_7d": 2.34,
+      "std_7d": 4.49,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "롤 국가 대표",
+      "label": "💤 Steady",
+      "z_score": -0.43,
+      "velocity": -10.84,
+      "acceleration": -18.54,
+      "score_today": 0.0,
+      "mean_7d": 2.15,
+      "std_7d": 3.71,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "롤 아시안 게임 멤버",
+      "label": "💤 Steady",
+      "z_score": -0.5,
+      "velocity": -12.39,
+      "acceleration": -21.03,
+      "score_today": 0.0,
+      "mean_7d": 2.49,
+      "std_7d": 4.24,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 역사 왜곡",
+      "label": "💤 Steady",
+      "z_score": -0.59,
+      "velocity": -3.03,
+      "acceleration": 33.01,
+      "score_today": 0.07,
+      "mean_7d": 18.45,
+      "std_7d": 30.96,
+      "history_days": 4,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 사과",
+      "label": "💤 Steady",
+      "z_score": -0.61,
+      "velocity": -1.32,
+      "acceleration": 22.0,
+      "score_today": 0.0,
+      "mean_7d": 5.36,
+      "std_7d": 8.8,
+      "history_days": 3,
+      "sources": []
+    },
+    {
+      "keyword": "gothamchess chatgpt",
+      "label": "🆕 New",
+      "z_score": 10.0,
+      "velocity": 86.82,
+      "acceleration": 86.82,
+      "score_today": 86.82,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 정신과",
+      "label": "🆕 New",
+      "z_score": 0.32,
+      "velocity": 1.59,
+      "acceleration": 1.59,
+      "score_today": 1.59,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 치파오",
+      "label": "🆕 New",
+      "z_score": 0.3,
+      "velocity": 1.5,
+      "acceleration": 1.5,
+      "score_today": 1.5,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "ewc",
+      "label": "🆕 New",
+      "z_score": 0.21,
+      "velocity": 1.03,
+      "acceleration": 1.03,
+      "score_today": 1.03,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "설리 오빠 아이유",
+      "label": "🆕 New",
+      "z_score": 0.17,
+      "velocity": 0.84,
+      "acceleration": 0.84,
+      "score_today": 0.84,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "대수 대명",
+      "label": "🆕 New",
+      "z_score": 0.09,
+      "velocity": 0.47,
+      "acceleration": 0.47,
+      "score_today": 0.47,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "how to install chatgpt on calculator",
+      "label": "🆕 New",
+      "z_score": 0.07,
+      "velocity": 0.37,
+      "acceleration": 0.37,
+      "score_today": 0.37,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "설리 아이유",
+      "label": "🆕 New",
+      "z_score": 0.07,
+      "velocity": 0.36,
+      "acceleration": 0.36,
+      "score_today": 0.36,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 슬라임",
+      "label": "🆕 New",
+      "z_score": 0.06,
+      "velocity": 0.32,
+      "acceleration": 0.32,
+      "score_today": 0.32,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "아이유 허 혜선",
+      "label": "🆕 New",
+      "z_score": 0.04,
+      "velocity": 0.22,
+      "acceleration": 0.22,
+      "score_today": 0.22,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "허 혜선",
+      "label": "🆕 New",
+      "z_score": 0.04,
+      "velocity": 0.21,
+      "acceleration": 0.21,
+      "score_today": 0.21,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "국민 연금 주식",
+      "label": "🆕 New",
+      "z_score": 0.04,
+      "velocity": 0.21,
+      "acceleration": 0.21,
+      "score_today": 0.21,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "생활 코딩 파이썬",
+      "label": "🆕 New",
+      "z_score": 0.04,
+      "velocity": 0.19,
+      "acceleration": 0.19,
+      "score_today": 0.19,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "스크래치 코딩",
+      "label": "🆕 New",
+      "z_score": 0.04,
+      "velocity": 0.19,
+      "acceleration": 0.19,
+      "score_today": 0.19,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "주식 뉴스",
+      "label": "🆕 New",
+      "z_score": 0.03,
+      "velocity": -0.2,
+      "acceleration": -0.59,
+      "score_today": 0.19,
+      "mean_7d": 0.06,
+      "std_7d": 0.14,
+      "history_days": 2,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "518",
+      "label": "🆕 New",
+      "z_score": 0.03,
+      "velocity": 0.15,
+      "acceleration": 0.15,
+      "score_today": 0.15,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "너의 의미 아이유",
+      "label": "🆕 New",
+      "z_score": 0.03,
+      "velocity": 0.13,
+      "acceleration": 0.13,
+      "score_today": 0.13,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "ewc 롤",
+      "label": "🆕 New",
+      "z_score": 0.03,
+      "velocity": 0.13,
+      "acceleration": 0.13,
+      "score_today": 0.13,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "송도 부동산",
+      "label": "🆕 New",
+      "z_score": 0.02,
+      "velocity": 0.09,
+      "acceleration": 0.09,
+      "score_today": 0.09,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "롤 제리",
+      "label": "🆕 New",
+      "z_score": 0.02,
+      "velocity": 0.09,
+      "acceleration": 0.09,
+      "score_today": 0.09,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "코딩 팩토리",
+      "label": "🆕 New",
+      "z_score": 0.02,
+      "velocity": 0.09,
+      "acceleration": 0.09,
+      "score_today": 0.09,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "발 로란트 스킨",
+      "label": "🆕 New",
+      "z_score": 0.02,
+      "velocity": 0.09,
+      "acceleration": 0.09,
+      "score_today": 0.09,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "플래시백",
+      "label": "🆕 New",
+      "z_score": 0.02,
+      "velocity": 0.09,
+      "acceleration": 0.09,
+      "score_today": 0.09,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 2,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "주식 추천",
+      "label": "🆕 New",
+      "z_score": 0.02,
+      "velocity": 0.09,
+      "acceleration": 0.09,
+      "score_today": 0.09,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "롤 티어",
+      "label": "🆕 New",
+      "z_score": 0.01,
+      "velocity": 0.07,
+      "acceleration": 0.07,
+      "score_today": 0.07,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "모자이크 롤",
+      "label": "🆕 New",
+      "z_score": 0.01,
+      "velocity": 0.07,
+      "acceleration": 0.07,
+      "score_today": 0.07,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "거제 맛집",
+      "label": "🆕 New",
+      "z_score": 0.01,
+      "velocity": 0.07,
+      "acceleration": 0.07,
+      "score_today": 0.07,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "탕 후루 의 달인 파르페 레시피",
+      "label": "🆕 New",
+      "z_score": 0.01,
+      "velocity": 0.07,
+      "acceleration": 0.07,
+      "score_today": 0.07,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "영종도 맛집",
+      "label": "🆕 New",
+      "z_score": 0.01,
+      "velocity": 0.07,
+      "acceleration": 0.07,
+      "score_today": 0.07,
+      "mean_7d": 0.0,
+      "std_7d": 0.0,
+      "history_days": 1,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "안동 맛집",
+      "label": "🆕 New",
+      "z_score": 0.0,
+      "velocity": -0.32,
+      "acceleration": -0.71,
+      "score_today": 0.07,
+      "mean_7d": 0.06,
+      "std_7d": 0.14,
+      "history_days": 2,
+      "sources": [
+        "pytrends_sector"
+      ]
+    },
+    {
+      "keyword": "패션 후르츠",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.0,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 대군 부인",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.14,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.05,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "세종 시 부동산 전망",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "이더 리움",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.08,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 연기",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.12,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.04,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "여름 패션 여자",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "커서 ai",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "침착 맨 롤",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.08,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "코딩 교육",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "떡볶이 레시피",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.0,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "chatgpt agent",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.12,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.04,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "편의점 주식",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "대군 부인",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.12,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.04,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "figure ai",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.03,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "kt 롤 스터",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.12,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.04,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "냉우동 레시피",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "ai 역량 검사",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.08,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.03,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "불닭 레시피",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "바이브 코딩 이란",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "마늘 장아찌 황금 레시피",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.0,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "코딩 이란",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "한화 롤",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.12,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.04,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "롤 lck",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.0,
+      "std_7d": 0.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "피규어 ai",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.02,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 좌파",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.02,
+      "std_7d": 0.04,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "제천 맛집",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.08,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.03,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "코딩 에이전트",
+      "label": "🆕 New",
+      "z_score": -0.0,
+      "velocity": 0.0,
+      "acceleration": 0.1,
+      "score_today": 0.0,
+      "mean_7d": 0.01,
+      "std_7d": 0.03,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "sau này em cưới ai rồi",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.31,
+      "acceleration": -0.62,
+      "score_today": 0.0,
+      "mean_7d": 0.04,
+      "std_7d": 0.11,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 팬 미팅",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.04,
+      "std_7d": 0.09,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "오이 냉국 황금 레시피",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.12,
+      "score_today": 0.0,
+      "mean_7d": 0.03,
+      "std_7d": 0.05,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "영월 맛집",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.31,
+      "acceleration": -0.5,
+      "score_today": 0.0,
+      "mean_7d": 0.06,
+      "std_7d": 0.11,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "롤 태윤",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.05,
+      "std_7d": 0.13,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "여긴 패션 시티",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.46,
+      "acceleration": -0.92,
+      "score_today": 0.0,
+      "mean_7d": 0.07,
+      "std_7d": 0.16,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "프로그래머 스 코딩 테스트",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.41,
+      "score_today": 0.0,
+      "mean_7d": 0.06,
+      "std_7d": 0.14,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "조이 다이어트",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.14,
+      "score_today": 0.0,
+      "mean_7d": 0.04,
+      "std_7d": 0.06,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "가지 볶음 황금 레시피",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.39,
+      "acceleration": -0.78,
+      "score_today": 0.0,
+      "mean_7d": 0.06,
+      "std_7d": 0.14,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "비트 코인 하락",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.24,
+      "score_today": 0.0,
+      "mean_7d": 0.05,
+      "std_7d": 0.09,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "지디 패션",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.46,
+      "acceleration": -0.92,
+      "score_today": 0.0,
+      "mean_7d": 0.07,
+      "std_7d": 0.16,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "딥 러닝 cnn",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.32,
+      "score_today": 0.0,
+      "mean_7d": 0.05,
+      "std_7d": 0.11,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "단양 맛집",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.39,
+      "acceleration": -0.66,
+      "score_today": 0.0,
+      "mean_7d": 0.07,
+      "std_7d": 0.14,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "여주 맛집",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.39,
+      "acceleration": -0.78,
+      "score_today": 0.0,
+      "mean_7d": 0.06,
+      "std_7d": 0.14,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "코딩 테스트 벼락치기",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.24,
+      "score_today": 0.0,
+      "mean_7d": 0.04,
+      "std_7d": 0.08,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "좌 이유",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.04,
+      "std_7d": 0.1,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "거제도 맛집",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": -0.31,
+      "acceleration": -0.62,
+      "score_today": 0.0,
+      "mean_7d": 0.04,
+      "std_7d": 0.11,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "드림 코딩",
+      "label": "🆕 New",
+      "z_score": -0.01,
+      "velocity": 0.0,
+      "acceleration": 0.16,
+      "score_today": 0.0,
+      "mean_7d": 0.03,
+      "std_7d": 0.06,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "플래시백 발 로란트",
+      "label": "🆕 New",
+      "z_score": -0.02,
+      "velocity": -0.54,
+      "acceleration": -1.08,
+      "score_today": 0.0,
+      "mean_7d": 0.08,
+      "std_7d": 0.19,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "발 로란트 ewc",
+      "label": "🆕 New",
+      "z_score": -0.02,
+      "velocity": 0.0,
+      "acceleration": 0.71,
+      "score_today": 0.0,
+      "mean_7d": 0.1,
+      "std_7d": 0.25,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "마인 크래프트 코딩",
+      "label": "🆕 New",
+      "z_score": -0.02,
+      "velocity": -0.7,
+      "acceleration": -1.4,
+      "score_today": 0.0,
+      "mean_7d": 0.1,
+      "std_7d": 0.24,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "발 로란트 신 스킨",
+      "label": "🆕 New",
+      "z_score": -0.02,
+      "velocity": -0.7,
+      "acceleration": -1.4,
+      "score_today": 0.0,
+      "mean_7d": 0.1,
+      "std_7d": 0.24,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "ai 쇼츠",
+      "label": "🆕 New",
+      "z_score": -0.02,
+      "velocity": -0.62,
+      "acceleration": -1.24,
+      "score_today": 0.0,
+      "mean_7d": 0.09,
+      "std_7d": 0.22,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "피겨 ai",
+      "label": "🆕 New",
+      "z_score": -0.02,
+      "velocity": 0.0,
+      "acceleration": 0.36,
+      "score_today": 0.0,
+      "mean_7d": 0.11,
+      "std_7d": 0.18,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "비트 코인 캐시",
+      "label": "🆕 New",
+      "z_score": -0.03,
+      "velocity": -1.08,
+      "acceleration": -2.16,
+      "score_today": 0.0,
+      "mean_7d": 0.15,
+      "std_7d": 0.38,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "민주화 운동",
+      "label": "🆕 New",
+      "z_score": -0.03,
+      "velocity": 0.0,
+      "acceleration": 1.01,
+      "score_today": 0.0,
+      "mean_7d": 0.14,
+      "std_7d": 0.35,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "대군 부인 논란",
+      "label": "🆕 New",
+      "z_score": -0.03,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 0.15,
+      "std_7d": 0.36,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 꽃 등심",
+      "label": "🆕 New",
+      "z_score": -0.03,
+      "velocity": 0.0,
+      "acceleration": 0.71,
+      "score_today": 0.0,
+      "mean_7d": 0.13,
+      "std_7d": 0.25,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "한화 kt 롤",
+      "label": "🆕 New",
+      "z_score": -0.04,
+      "velocity": 0.0,
+      "acceleration": 1.52,
+      "score_today": 0.0,
+      "mean_7d": 0.22,
+      "std_7d": 0.53,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "롤 국대",
+      "label": "🆕 New",
+      "z_score": -0.07,
+      "velocity": 0.0,
+      "acceleration": 1.93,
+      "score_today": 0.0,
+      "mean_7d": 0.37,
+      "std_7d": 0.68,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "스페이스 x 비트 코인",
+      "label": "🆕 New",
+      "z_score": -0.11,
+      "velocity": -3.1,
+      "acceleration": -5.29,
+      "score_today": 0.0,
+      "mean_7d": 0.57,
+      "std_7d": 1.08,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "21 세기 대군 부인 논란",
+      "label": "🆕 New",
+      "z_score": -0.14,
+      "velocity": -1.94,
+      "acceleration": -1.04,
+      "score_today": 0.0,
+      "mean_7d": 0.68,
+      "std_7d": 1.11,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "히라이",
+      "label": "🆕 New",
+      "z_score": -0.41,
+      "velocity": -14.33,
+      "acceleration": -28.66,
+      "score_today": 0.0,
+      "mean_7d": 2.05,
+      "std_7d": 5.01,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "대군 부인 역사 왜곡",
+      "label": "🆕 New",
+      "z_score": -0.41,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 8.87,
+      "std_7d": 21.73,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "chatgpt 요금제",
+      "label": "🆕 New",
+      "z_score": -0.41,
+      "velocity": 0.0,
+      "acceleration": 86.8,
+      "score_today": 0.0,
+      "mean_7d": 12.4,
+      "std_7d": 30.37,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "21 세기 대군 부인 역사 왜곡",
+      "label": "🆕 New",
+      "z_score": -0.41,
+      "velocity": 0.0,
+      "acceleration": 0.0,
+      "score_today": 0.0,
+      "mean_7d": 4.07,
+      "std_7d": 9.98,
+      "history_days": 1,
+      "sources": []
+    },
+    {
+      "keyword": "아이유 동북 공정",
+      "label": "🆕 New",
+      "z_score": -0.47,
+      "velocity": 0.0,
+      "acceleration": 4.77,
+      "score_today": 0.0,
+      "mean_7d": 5.95,
+      "std_7d": 12.74,
+      "history_days": 2,
+      "sources": []
+    },
+    {
+      "keyword": "롤 pc 방",
+      "label": "🆕 New",
+      "z_score": -0.59,
+      "velocity": -25.56,
+      "acceleration": -38.04,
+      "score_today": 0.0,
+      "mean_7d": 5.52,
+      "std_7d": 9.34,
+      "history_days": 2,
+      "sources": []
+    }
+  ]
+}
