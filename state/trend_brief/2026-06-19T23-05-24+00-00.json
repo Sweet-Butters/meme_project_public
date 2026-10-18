@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "trend_brief",
+    "fetched_at": "2026-06-19T23:05:24+00:00"
+  },
+  "as_of": "2026-06-19",
+  "source": "stat_fallback (llm unavailable)",
+  "history_days_available": 14,
+  "label_counts": {
+    "🔥 Breakout": 6,
+    "📈 Rising": 3,
+    "💤 Steady": 790,
+    "📉 Declining": 69,
+    "🆕 New": 3300
+  },
+  "body": "📊 트렌드 브리프 — 2026-06-19\n\n## 🔥 폭발 (Breakout)\n  • **Man** (z=+3.7, 신뢰도 41%) — youtube_trending\n  • **장동혁 부동산** (z=+2.7, 신뢰도 58%) — pytrends_sector\n  • **넷플릭스** (z=+2.5, 신뢰도 40%) — youtube_trending\n\n## 📈 상승 (Rising)\n  • **대한민국** (z=+1.2, 신뢰도 32%) — youtube_trending\n  • **월드컵** (z=+1.1, 신뢰도 33%) — youtube_trending\n  • **아이유 축가** (z=+1.1, 신뢰도 56%) — pytrends_sector\n\n## 📉 주의 (Declining)\n  • **GEN** (z=-1.0)\n  • **BTS** (z=-1.1)\n  • **방탄소년단** (z=-1.1)"
+}

@@ -1,0 +1,16 @@
+{
+  "_meta": {
+    "source": "trend_brief",
+    "fetched_at": "2026-09-12T00:01:30+00:00"
+  },
+  "as_of": "2026-09-11",
+  "source": "stat_fallback (llm unavailable)",
+  "history_days_available": 14,
+  "label_counts": {
+    "🔥 Breakout": 4,
+    "💤 Steady": 727,
+    "📉 Declining": 34,
+    "🆕 New": 3445
+  },
+  "body": "📊 트렌드 브리프 — 2026-09-11\n\n## 🔥 폭발 (Breakout)\n  • **with** (z=+4.1, 신뢰도 45%) — youtube_trending\n  • **ALL** (z=+3.9, 신뢰도 44%) — youtube_trending\n  • **mv** (z=+3.8, 신뢰도 30%) — youtube_trending\n\n## 📉 주의 (Declining)\n  • **K-Pop** (z=-1.1)\n  • **Pop** (z=-1.1)\n  • **s2claude** (z=-1.1)"
+}

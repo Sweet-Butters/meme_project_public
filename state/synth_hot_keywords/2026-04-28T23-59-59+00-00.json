@@ -1,0 +1,54 @@
+{
+  "_meta": {
+    "source": "synth_hot_keywords",
+    "fetched_at": "2026-04-28T12:00:00+00:00",
+    "backfilled": true
+  },
+  "sources_used": [
+    "pytrends_sector",
+    "naver_datalab"
+  ],
+  "weights": {
+    "pytrends_sector": 0.5,
+    "naver_datalab": 0.5
+  },
+  "total_keywords": 3,
+  "keywords": [
+    {
+      "keyword": "AI",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 98.0,
+        "naver_datalab": 88.68892
+      },
+      "trend_score": 100.0
+    },
+    {
+      "keyword": "ChatGPT",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 15.0,
+        "naver_datalab": 88.68892
+      },
+      "trend_score": 57.65
+    },
+    {
+      "keyword": "딥러닝",
+      "sources": [
+        "pytrends_sector",
+        "naver_datalab"
+      ],
+      "raw": {
+        "pytrends_sector": 0.0,
+        "naver_datalab": 88.68892
+      },
+      "trend_score": 50.0
+    }
+  ]
+}
