@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "trend_brief",
+    "fetched_at": "2026-07-23T23:02:21+00:00"
+  },
+  "as_of": "2026-07-23",
+  "source": "stat_fallback (llm unavailable)",
+  "history_days_available": 14,
+  "label_counts": {
+    "🔥 Breakout": 3,
+    "📈 Rising": 4,
+    "💤 Steady": 1109,
+    "📉 Declining": 8,
+    "🆕 New": 3190
+  },
+  "body": "📊 트렌드 브리프 — 2026-07-23\n\n## 🔥 폭발 (Breakout)\n  • **아이유 이관 개방 증** (z=+3.5, 신뢰도 65%) — pytrends_sector\n  • **문샷 ai** (z=+3.5, 신뢰도 62%) — pytrends_sector\n  • **아이유 고소** (z=+2.5, 신뢰도 62%) — pytrends_sector\n\n## 📈 상승 (Rising)\n  • **뮤직비디오** (z=+1.7, 신뢰도 30%) — youtube_trending\n  • **롤 케 스파 컵** (z=+1.6, 신뢰도 61%) — pytrends_sector\n  • **리니지클래식** (z=+1.4, 신뢰도 30%) — youtube_trending\n  • **패션 왕 코리아** (z=+1.1, 신뢰도 59%) — pytrends_sector\n\n## 📉 주의 (Declining)\n  • **하이브레이블즈** (z=-1.0, 신뢰도 31%) — youtube_trending\n  • **HYBE** (z=-1.0, 신뢰도 31%) — youtube_trending\n  • **하이브** (z=-1.0, 신뢰도 31%) — youtube_trending"
+}

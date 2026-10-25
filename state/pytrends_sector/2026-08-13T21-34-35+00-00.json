@@ -1,0 +1,49 @@
+{
+  "_meta": {
+    "source": "pytrends_sector",
+    "fetched_at": "2026-08-13T21:34:35+00:00"
+  },
+  "geo": "KR",
+  "timeframe": "now 7-d",
+  "realtime_trending": [],
+  "by_sector": {
+    "tech": {
+      "interest_over_time": {},
+      "related_queries": {},
+      "error": "rate_limited_or_failed"
+    },
+    "music": {
+      "interest_over_time": {},
+      "related_queries": {},
+      "error": "rate_limited_or_failed"
+    },
+    "gaming": {
+      "interest_over_time": {},
+      "related_queries": {},
+      "error": "rate_limited_or_failed"
+    },
+    "food": {
+      "interest_over_time": {},
+      "related_queries": {},
+      "error": "rate_limited_or_failed"
+    },
+    "finance": {
+      "interest_over_time": {},
+      "related_queries": {},
+      "error": "rate_limited_or_failed"
+    },
+    "lifestyle": {
+      "interest_over_time": {},
+      "related_queries": {},
+      "error": "rate_limited_or_failed"
+    }
+  },
+  "sectors_requested": [
+    "tech",
+    "music",
+    "gaming",
+    "food",
+    "finance",
+    "lifestyle"
+  ]
+}

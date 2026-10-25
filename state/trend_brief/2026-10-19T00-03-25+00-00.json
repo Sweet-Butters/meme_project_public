@@ -1,0 +1,17 @@
+{
+  "_meta": {
+    "source": "trend_brief",
+    "fetched_at": "2026-10-19T00:03:25+00:00"
+  },
+  "as_of": "2026-10-18",
+  "source": "stat_fallback (llm unavailable)",
+  "history_days_available": 14,
+  "label_counts": {
+    "🔥 Breakout": 1,
+    "📈 Rising": 2,
+    "💤 Steady": 635,
+    "📉 Declining": 59,
+    "🆕 New": 3333
+  },
+  "body": "📊 트렌드 브리프 — 2026-10-18\n\n## 🔥 폭발 (Breakout)\n  • **chatgpt sol** (z=+10.0, 신뢰도 62%) — pytrends_sector\n\n## 📈 상승 (Rising)\n  • **expectations** (z=+1.3, 신뢰도 53%) — youtube_trending\n  • **다비치** (z=+1.2, 신뢰도 54%) — youtube_trending\n\n## 📉 주의 (Declining)\n  • **롤 승부 의 신** (z=-1.0)\n  • **뮤직비디오** (z=-1.1, 신뢰도 45%) — youtube_trending\n  • **케이팝** (z=-1.1, 신뢰도 51%) — youtube_trending, pytrends_sector"
+}
